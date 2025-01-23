@@ -11,8 +11,8 @@ A simple Python-based To-Do List application that allows users to add, mark task
 
 ## Requirements 🛠️
 - Python 3.x 🐍
-- Tkinter (comes pre-installed with Python) 🎨
-- SQLite (comes pre-installed with Python) 📦
+- Tkinter 🎨
+- SQLite 📦
 
 ## How to Use 👨‍💻
 
